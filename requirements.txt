@@ -1,0 +1,5 @@
+pysat
+sklearn
+scipy
+numpy
+python-sat

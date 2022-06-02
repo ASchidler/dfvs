@@ -1,0 +1,8 @@
+% This file describes a directed graph with four vertices and five directed edges.
+4 5 0
+2 3
+3
+% we are half-way done with the instance definition.
+4
+1
+
